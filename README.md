@@ -71,13 +71,6 @@ Artificial Intelligence is transforming industries.
 
 ---
 
-## ⚠️ Note
-
-* The model used is pretrained due to computational constraints such as limited GPU resources, dataset size, and training time.
-* First run may take time as the model downloads.
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates the practical implementation of a **transformer-based Seq2Seq model** for real-time language translation, combining machine learning with an interactive user interface.
